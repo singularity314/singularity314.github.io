@@ -57,7 +57,7 @@ sections:
     section_id: aside
     title: Free and Open Source!
     actions:
-      - title: Check out the GitHub!
+      - title: Check out the GitHub here!
         url: https://github.com/cshapard26/Membrane
         class: btn-light 
 
